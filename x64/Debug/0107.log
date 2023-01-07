@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\BIT\Desktop\0107\0107\소스.cpp(28): error C4700: 초기화되지 않은 'num2' 지역 변수를 사용했습니다.
+C:\Users\BIT\Desktop\0107\0107\소스.cpp(28): error C4700: 초기화되지 않은 'num1' 지역 변수를 사용했습니다.
